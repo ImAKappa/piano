@@ -10,8 +10,8 @@
     </a>
   </div>
 
-  <nav>
-    <svg viewBox="0 0 2 3" aria-hidden="true">
+  <nav class="flex flex-row items-center">
+    <!-- <svg viewBox="0 0 2 3" aria-hidden="true">
       <path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
     </svg>
     <ul>
@@ -25,7 +25,8 @@
     </ul>
     <svg viewBox="0 0 2 3" aria-hidden="true">
       <path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-    </svg>
+    </svg> -->
+    <h1 class="font-bold text-2xl">Piano Quiz</h1>
   </nav>
 
   <div class="corner">

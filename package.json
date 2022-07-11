@@ -15,16 +15,24 @@
     "@sveltejs/adapter-auto": "1.0.0-next.50",
     "@sveltejs/kit": "1.0.0-next.347",
     "@types/cookie": "^0.4.1",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
     "prettier": "^2.5.1",
     "prettier-plugin-svelte": "^2.5.0",
     "svelte": "^3.46.0",
     "svelte-check": "^2.2.6",
+    "svelte-preprocess": "^4.10.7",
+    "tailwindcss": "^3.1.5",
     "typescript": "~4.6.2"
   },
   "type": "module",
   "dependencies": {
     "@fontsource/fira-mono": "^4.5.0",
+    "@mapbox/node-pre-gyp": "^1.0.9",
     "cookie": "^0.4.1",
-    "web-vitals": "^2.1.4"
+    "immutable": "^4.1.0",
+    "tone": "^14.7.77",
+    "web-vitals": "^2.1.4",
+    "webmidi": "^3.0.21"
   }
 }
